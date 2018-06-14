@@ -7,3 +7,5 @@ The work I do is owned by my current employer so this version of the site and co
 Here's what the template looks like live. Again, using Lorem Ipsum to protect my employer's content.
 
 ![Screenshot of template](https://github.com/OptikRise/simple-reading-template/blob/master/SRT-Screenshot.png)
+![Screenshot of template](https://github.com/OptikRise/simple-reading-template/blob/master/SRT-Screenshot-0.png)
+![Screenshot of template](https://github.com/OptikRise/simple-reading-template/blob/master/SRT-Screenshot-1.png)
