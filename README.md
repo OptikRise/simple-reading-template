@@ -3,9 +3,12 @@ I work in the curriculum development side. Most of our web content requests come
 
 The work I do is owned by my current employer so this version of the site and code has been altered to hide proprietary information.
 
-## Screenshots
+# Screenshots
 Here's what the template looks like live. Again, using Lorem Ipsum to protect my employer's content.
 
 ![Screenshot of template](https://github.com/OptikRise/simple-reading-template/blob/master/SRT-Screenshot.png)
 ![Screenshot of template](https://github.com/OptikRise/simple-reading-template/blob/master/SRT-Screenshot-0.png)
 ![Screenshot of template](https://github.com/OptikRise/simple-reading-template/blob/master/SRT-Screenshot-1.png)
+
+#Credit
+I did receive help/input from a former colleague: Damion Armentrout.
